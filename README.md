@@ -4,6 +4,8 @@ Trust me, I am Secure. Very Secure!
 
 I study computer science. I am more interested in Artificial Intelligence and Data Science, but anything tech interests me!
 
+I used to do more of system infra stuff (mostly linux and server side of things) but AI took my time away now (Totally not wasting my time on random games now).
+
 I also work to create my own city over here - [City](https://skyline.github.com/supersecurehuman/2022)
 
 ## 🛠️ Skills
