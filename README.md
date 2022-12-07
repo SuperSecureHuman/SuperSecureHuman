@@ -8,12 +8,17 @@ I used to do more of system infra stuff (mostly linux and server side of things)
 
 I also work to create my own city over here - [City](https://skyline.github.com/supersecurehuman/2022)
 
+## 📝 Blog
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 ## 🛠️ Skills
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
 
 
 ## Half Baked skills (stuff I am not that good at, and not actively learning)
@@ -22,7 +27,6 @@ I also work to create my own city over here - [City](https://skyline.github.com/
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-Onnx
 
 Matlab too (couldn't find a good image for matlab)
 
