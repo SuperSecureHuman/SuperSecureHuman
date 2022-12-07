@@ -20,7 +20,7 @@ jobs:
             git config --global user.name 'SuperSecureHuman'
             git config --global user.email 'supersecurehuman@gmail.com'
             git add .
-            git diff --quiet --cached || git commit -m "Update README"    
+            git diff --quiet --cached || git commit -m "Update README With Blog RSS"    
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
