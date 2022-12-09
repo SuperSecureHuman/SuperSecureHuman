@@ -12,7 +12,7 @@ I also work to create my own city over here - [City](https://skyline.github.com/
 <!-- BLOGPOSTS:START -->
 - [Introduction to XAI (Explainable AI)](https://supersecurehuman.github.io/Intro-XAI/)
 - [LazyPredict](https://supersecurehuman.github.io/LazyPredict/)
-- [U Net architure for Image Segmentation](https://supersecurehuman.github.io/U-Net-Architure-Image-Segmentation/)
+- [U Net architure for Image Segmentation](https://supersecurehuman.github.io/U-Net-architecture-Image-Segmentation/)
 <!-- BLOGPOSTS:END -->
 
 ## 🛠️ Skills
