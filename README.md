@@ -10,9 +10,9 @@ I also work to create my own city over here - [City](https://skyline.github.com/
 
 ## 📝 Blog
 <!-- BLOGPOSTS:START -->
+- [Setting up Horovod on cluster](https://supersecurehuman.github.io/Horovod-Setup/)
 - [Mixed Precision Training](https://supersecurehuman.github.io/Mixed-Presision-Training/)
 - [Introduction to XAI (Explainable AI)](https://supersecurehuman.github.io/Intro-XAI/)
-- [LazyPredict](https://supersecurehuman.github.io/LazyPredict/)
 <!-- BLOGPOSTS:END -->
 
 ## 🛠️ Skills
