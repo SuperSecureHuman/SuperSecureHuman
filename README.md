@@ -6,7 +6,7 @@ I study computer science. I am more interested in Artificial Intelligence and Da
 
 I used to do more of system infra stuff (mostly linux and server side of things) but AI took my time away now (Totally not wasting my time on random games now).
 
-I also work to create my own city over here - [City](https://skyline.github.com/supersecurehuman/2022)
+I also work to create my own city over here - [City](https://skyline.github.com/supersecurehuman/2023)
 
 ## 📝 Blog
 <!-- BLOGPOSTS:START -->
@@ -15,13 +15,16 @@ I also work to create my own city over here - [City](https://skyline.github.com/
 - [Introduction to XAI (Explainable AI)](https://supersecurehuman.github.io/Intro-XAI/)
 <!-- BLOGPOSTS:END -->
 
-## 🛠️ Skills
+## 🛠️ Skills/Working With
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
+
 
 
 ## Half Baked skills (stuff I am not that good at, and not actively learning)
@@ -31,33 +34,17 @@ I also work to create my own city over here - [City](https://skyline.github.com/
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 
-Matlab too (couldn't find a good image for matlab)
-
-
-## 📚 Studying/Working with Currently
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-HuggingFace Transformers
-
-
-
 
 
 ## Want to learn - Never know when I will learn these
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-
 
 Along with some sort of web dev stack
 
 ## ⚒️ Tools I use
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 
 ## 🖥️ Workspace
