@@ -10,11 +10,11 @@ I also work to create my own city over here - [City](https://skyline.github.com/
 
 ## 📝 Blog
 <!-- BLOGPOSTS:START -->
+- [Unleashing the Power of AI in Data Analysis with Sketch](https://supersecurehuman.github.io/Sketch-The-AI-DataFrame-Master/)
 - [Distributed Training With Tensorflow](https://supersecurehuman.github.io/Tensorflow-Distribtuted-Training/)
 - [Optimizing Deep Learning Models for Inference with Speedster](https://supersecurehuman.github.io/Speedster-Optimize-Deep-Learning-Models-For-Inference/)
 - [Setting up Horovod on cluster](https://supersecurehuman.github.io/Horovod-Setup/)
 - [Mixed Precision Training](https://supersecurehuman.github.io/Mixed-Presision-Training/)
-- [Introduction to XAI (Explainable AI)](https://supersecurehuman.github.io/Intro-XAI/)
 <!-- BLOGPOSTS:END -->
 
 ## 🛠️ Skills/Working With
