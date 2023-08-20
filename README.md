@@ -6,11 +6,11 @@
 
 ## 📝 Blog
 <!-- BLOGPOSTS:START -->
+- [Maximizing HPC Potential: The Accelerators [Part 2]](https://supersecurehuman.github.io/HPC-Selection-Part-2/)
+- [Maximizing HPC Potential: Unveiling the Best CPU, Motherboard, and Memory [Part 1]](https://supersecurehuman.github.io/HPC-Selection-Part-1/)
 - [Stuff I learnt doing an end to end project](https://supersecurehuman.github.io/My-Tips-working-On-End-To-End-Project/)
 - [Unleashing the Power of AI in Data Analysis with Sketch](https://supersecurehuman.github.io/Sketch-The-AI-DataFrame-Master/)
 - [Distributed Training With Tensorflow](https://supersecurehuman.github.io/Tensorflow-Distribtuted-Training/)
-- [Optimizing Deep Learning Models for Inference with Speedster](https://supersecurehuman.github.io/Speedster-Optimize-Deep-Learning-Models-For-Inference/)
-- [Setting up Horovod on cluster](https://supersecurehuman.github.io/Horovod-Setup/)
 <!-- BLOGPOSTS:END -->
 
 ###
