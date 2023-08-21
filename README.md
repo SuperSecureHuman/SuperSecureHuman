@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Trust me, I am Secure. Very Secure!<br><br>I study computer science. I am more interested in Artificial Intelligence and Data Science, but anything tech interests me!<br><br>I used to do more of system infra stuff (mostly linux and server side of things) but AI took my time away now (Totally not wasting my time on random games now).</p>
+<p align="left">Trust me, I am Secure. Very Secure!<br><br>I study computer science. I am more interested in Artificial Intelligence and Data Science, but anything tech interests me!<br><br>I used to do more of system infra stuff (mostly Linux and server side of things) but AI took my time away now (Totally not wasting my time on random games now).</p>
 
 ## 📝 Blog
 <!-- BLOGPOSTS:START -->
@@ -27,7 +27,7 @@
   alt="pytorch logo" />
   <img width="0" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge"
-  height="30" alt="tensorflow logo" />
+  height="30" alt="TensorFlow logo" />
   <img width="0" />
 <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30"
   alt="pandas logo" />
@@ -97,7 +97,7 @@ I possess practical experience in deploying applications on cloud platforms like
 
 <br>
 
-I had some experience working with web stack - majorly backend, some in frontend. I can work on a team with other web devs and help them, but cant yet work on it alone. Hoping to change that soon :)
+I had some experience working with web stack - majorly backend, some in frontend. I can work on a team with other web devs and help them, but can't yet work on it alone. Hoping to change that soon :)
 
 ###
 
@@ -121,7 +121,7 @@ I had some experience working with web stack - majorly backend, some in frontend
 
 <br>
 
-I picked up these skills either during my coursework, or working on a team for a project. 
+I picked up these skills either during my coursework or working on a team for a project. 
 
 ###
 
@@ -156,9 +156,9 @@ I wish I knew these
 Ofc! My laptop needs some sort of credit :)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuperSecureHuman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-stats-supersecurehuman.vercel.app/api?username=SuperSecureHuman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=SuperSecureHuman&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperSecureHuman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-stats-supersecurehuman.vercel.app/api/top-langs?username=SuperSecureHuman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
