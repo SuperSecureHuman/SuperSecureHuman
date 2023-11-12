@@ -6,11 +6,11 @@
 
 ## 📝 Blog
 <!-- BLOGPOSTS:START -->
+- [Arch Linux is the Best for Deep Learning (for intermediate users)](https://supersecurehuman.github.io/Arch-Linux-and-Deep-Learning/)
 - [Elegance of Keras Core and JAX combo](https://supersecurehuman.github.io/Elegance-Of-Keras-and-JAX/)
 - [Maximizing HPC Potential: The Accelerators [Part 2]](https://supersecurehuman.github.io/HPC-Selection-Part-2/)
 - [Maximizing HPC Potential: Unveiling the Best CPU, Motherboard, and Memory [Part 1]](https://supersecurehuman.github.io/HPC-Selection-Part-1/)
 - [Stuff I learnt doing an end to end project](https://supersecurehuman.github.io/My-Tips-working-On-End-To-End-Project/)
-- [Unleashing the Power of AI in Data Analysis with Sketch](https://supersecurehuman.github.io/Sketch-The-AI-DataFrame-Master/)
 <!-- BLOGPOSTS:END -->
 
 ###
