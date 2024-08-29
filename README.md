@@ -6,11 +6,11 @@
 
 ## 📝 Blog
 <!-- BLOGPOSTS:START -->
-- [Arch Linux is the Best for Deep Learning (for intermediate users)](https://supersecurehuman.github.io/Arch-Linux-and-Deep-Learning/)
-- [Elegance of Keras Core and JAX combo](https://supersecurehuman.github.io/Elegance-Of-Keras-and-JAX/)
-- [Maximizing HPC Potential: The Accelerators [Part 2]](https://supersecurehuman.github.io/HPC-Selection-Part-2/)
-- [Maximizing HPC Potential: Unveiling the Best CPU, Motherboard, and Memory [Part 1]](https://supersecurehuman.github.io/HPC-Selection-Part-1/)
-- [Stuff I learnt doing an end to end project](https://supersecurehuman.github.io/My-Tips-working-On-End-To-End-Project/)
+- [Setting up Dockerized Slurm Cluster on Raspberry Pis](https://supersecurehuman.github.io/Creating-Docker-Raspberry-pi-Slurm-Cluster/)
+- [Serving Fastchat - Personal Journey](https://supersecurehuman.github.io/Serving-FastChat/)
+- [Basics of Transformers and Huggingface - Training](https://supersecurehuman.github.io/Basics-HF-Trainer/)
+- [Basics of Transformers and Huggingface - Inference](https://supersecurehuman.github.io/Basics-01-Transformer-Pipeline-Inference!/)
+- [Basics of Transformers and Huggingface - Datasets](https://supersecurehuman.github.io/Basics-02-Of-Datasets/)
 <!-- BLOGPOSTS:END -->
 
 ###
