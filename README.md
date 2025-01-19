@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Trust me, I am Secure. Very Secure!<br><br>I study computer science. I am more interested in Artificial Intelligence and Data Science, but anything tech interests me!<br><br>I used to do more of system infra stuff (mostly Linux and server side of things) but AI took my time away now (Totally not wasting my time on random games now).</p>
+<p align="left">Trust me, I am Secure. Very Secure!<br><br>Love working with AI infra and setting up distributed systems!</p>
 
 ## 📝 Blog
 <!-- BLOGPOSTS:START -->
