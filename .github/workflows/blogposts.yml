@@ -1,9 +1,8 @@
 name: Blog post workflow
 on:
   workflow_dispatch:
-#  schedule:
-    # Runs every day at 3pm UTC (11pm SG)
-#    - cron: '0 15 * * *'
+  schedule:
+    - cron: '30 5 * * *'
 
 jobs:
   pull_blog_rss:
@@ -21,7 +20,7 @@ jobs:
             git config --global user.name 'SuperSecureHuman'
             git config --global user.email 'supersecurehuman@gmail.com'
             git add .
-            git diff --quiet --cached || git commit -m "Update README With Blog RSS"    
+            git diff --quiet --cached || git commit -m "Update README With Blog RSS"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
