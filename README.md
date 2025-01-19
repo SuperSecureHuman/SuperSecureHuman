@@ -6,11 +6,11 @@
 
 ## 📝 Blog
 <!-- BLOGPOSTS:START -->
+- [Working with GlusterFS and NFS (NFS-Ganesha)](https://supersecurehuman.github.io/GlusterFS-NFS/)
 - [Setting up Dockerized Slurm Cluster on Raspberry Pis](https://supersecurehuman.github.io/Creating-Docker-Raspberry-pi-Slurm-Cluster/)
 - [Serving Fastchat - Personal Journey](https://supersecurehuman.github.io/Serving-FastChat/)
 - [Basics of Transformers and Huggingface - Training](https://supersecurehuman.github.io/Basics-HF-Trainer/)
 - [Basics of Transformers and Huggingface - Inference](https://supersecurehuman.github.io/Basics-01-Transformer-Pipeline-Inference!/)
-- [Basics of Transformers and Huggingface - Datasets](https://supersecurehuman.github.io/Basics-02-Of-Datasets/)
 <!-- BLOGPOSTS:END -->
 
 ###
